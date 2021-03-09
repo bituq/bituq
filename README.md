@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Bituq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![bituq's GitHub stats](https://github-readme-stats.vercel.app/api?username=bituq&theme=dark&show_icons=true)
