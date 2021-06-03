@@ -3,7 +3,7 @@
 #### _"Don't panic!"_
 
 
-![bituq's GitHub stats](https://github-readme-stats.vercel.app/api?username=bituq&theme=dark&show_icons=true)
+![bituq's GitHub stats](https://github-readme-stats.vercel.app/api?username=bituq&show_icons=true&theme=gruvbox&count_private=true)
 
 I am a student at a University of Applied Sciences in The Netherlands. Currently in my first year.
 ## My Skills
@@ -11,6 +11,7 @@ I am a student at a University of Applied Sciences in The Netherlands. Currently
 |--|--|--|--|--|--|--|
 |High|Intermediate|High|High|Low|Tiny|Low|
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bituq&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 The ratio of these skillsets may be open to interpretation. 🤷‍♂️
 ## You may know me from
 - Creating the most popular [Reshade](https://reshade.me/) presets for **Roblox** - a game primarily targeted towards children and teenagers. I gave people an easier way to install ReShade for Roblox. Currently ranging at around **500k** downloads worldwide.
