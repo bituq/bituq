@@ -1,6 +1,10 @@
-
-# Dylan AKA Zeal AKA Bituq
-#### _"Don't panic!"_
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bituq&text2=%22Don't%20Panic!%22&width=800&height=200" />
+</div>
+<div align="center">
+  
+  <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord"
+</div>
 
 I am a student at a University of Applied Sciences in The Netherlands. Currently in my first year.
 ## My Skills
@@ -9,12 +13,3 @@ I am a student at a University of Applied Sciences in The Netherlands. Currently
 |High|Intermediate|High|High|Low|Low|Tiny|Low|
 
 The ratio of these skillsets may be open to interpretation. 🤷‍♂️
-## You may know me from
-- Creating the most popular [Reshade](https://reshade.me/) presets for **Roblox** - a game primarily targeted towards children and teenagers. I gave people an easier way to install ReShade for Roblox. Currently ranging at around **500k** downloads worldwide.
-
-- My Discord server - in which case, hi!
-
-- My school - in which case, hi 👀
-## Statistics
-![bituq's GitHub stats](https://github-readme-stats.vercel.app/api?username=bituq&show_icons=true&theme=gruvbox&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bituq&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
