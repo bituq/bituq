@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   
-  <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord"
+  <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord" />
 </div>
 
 I am a student at a University of Applied Sciences in The Netherlands. Currently in my first year.
