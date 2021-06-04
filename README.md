@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bituq&text2=%22Don't%20Panic!%22&width=800&height=200" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bituq&text2=%22Don't%20Panic!%22&width=800&height=200" />
+  </a>
 </div>
 <div align="center">
   <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord" />
