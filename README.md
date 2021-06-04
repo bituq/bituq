@@ -2,9 +2,7 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bituq&text2=%22Don't%20Panic!%22&width=800&height=200" />
 </div>
 <div align="center">
-  
   <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord" />
-</div>
 
 I am a student at a University of Applied Sciences in The Netherlands. Currently in my first year.
 ## My Skills
@@ -13,3 +11,4 @@ I am a student at a University of Applied Sciences in The Netherlands. Currently
 |High|Intermediate|High|High|Low|Low|Tiny|Low|
 
 The ratio of these skillsets may be open to interpretation. 🤷‍♂️
+</div>
