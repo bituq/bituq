@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://badgen.net/badge/discord/Zeal%231788/blue?icon=discord" />
 
-  I am a student at a University of Applied Sciences in The Netherlands. Currently in my first year.
+  I am a student at a University of Applied Sciences in The Netherlands. Currently in my second year.
   ## My Skills
   |<img align="center" title="C-sharp" alt="C sharp" width="35px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png">|<img align="center" title="Python" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">|<img align="center" title="Lua" alt="lua" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">|<img align="center" title="NSIS" alt="NSIS" width="35px" src="https://raw.githubusercontent.com/idleberg/nsis-logo/master/preview.png">|<img align="center" title="WiX Toolset" alt="wix toolset" width="35px" src="https://wixtoolset.org/content/logo-black-hollow-md.png">|<img align="center" title="Delphi Pascal" alt="Delphi Pascal" width="35px" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png">|HLSL|Comedy|
   |--|--|--|--|--|--|--|--|
