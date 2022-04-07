@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bituq&text2=%22Don't%20Panic!%22&width=800&height=200" />
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Bituq&text2=%22Don't%20Panic!%22&height=200"  />
   </a>
 </div>
 <div align="center">
+  <br />
   
   I am a student at a University of Applied Sciences in The Netherlands. Currently in my second year.
   ## My Skills
