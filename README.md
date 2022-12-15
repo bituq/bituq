@@ -5,7 +5,7 @@ I am a Computer Science student at the University of Applied Sciences in the Net
 ## My Projects 💻
 - **Roshade** - Shaders for Roblox 🎨
 - **Vite-Plugin-Squoosh** - Image compression plugin for Vite 📸
-- **Adaptive Rim Light Shader** - Shader for Reshade, written in HLSL 💡
+- **Adaptive Rim Light Shader** - Shader for Reshade, written in Reshade FX 💡
 
 ## My Skills 🧑‍💻
 - Rust
