@@ -1,6 +1,6 @@
 # Welcome to my Github page!
 
-I'm Dylan, a Computer Science student at the University of Applied Sciences in the Netherlands. I am the creator of Roshade - a popular Reshade package for the game engine Roblox, which has amassed over 5 million downloads.
+I'm Dylan, a Computer Science student at the University of Applied Sciences in the Netherlands. I am the creator of Roshade - a popular Reshade package for the game engine Roblox, which has amassed over 10 million downloads.
 
 ## My Projects 💻
 - **[Roshade](https://github.com/bituq/Roshade)** - Shaders for Roblox 🎨
