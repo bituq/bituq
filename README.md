@@ -4,6 +4,7 @@ I'm Dylan, a Computer Science student at the University of Applied Sciences in t
 
 ## My Projects
 - **[Roshade](https://github.com/bituq/Roshade)**: Shaders for Roblox 🎨
+- **[lut-rs](https://github.com/bituq/lut-rs)**: Apply LUTs to images in batch with ease, written in Rust! 🎨
 - **[Vite-Plugin-Squoosh](https://github.com/bituq/vite-plugin-squoosh)**: Image compression plugin for Vite 📸
 - **[Adaptive Rim Light Shader](https://github.com/bituq/ZealShaders)**: Shader for Reshade, written in Reshade FX 💡
 - **[RoKlein](https://github.com/bituq/RoKlein)**: Declarative, lightweight, asynchronous UI Library that [Roact](https://roblox.github.io/roact/) users hate 😅
