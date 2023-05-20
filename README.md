@@ -2,6 +2,8 @@
 
 I'm Dylan, a Computer Science student at the University of Applied Sciences in the Netherlands. I am the creator of Roshade - a popular Reshade package for the game engine Roblox, which has amassed over 10 million downloads.
 
+I am always seeking to improve my skills and take on new challenges. If you have any questions or opportunities for collaboration, please feel free to contact me.
+
 ## My Projects
 | Project | Short Description | Metrics |
 | --- | --- | --- |
@@ -19,11 +21,5 @@ I'm Dylan, a Computer Science student at the University of Applied Sciences in t
 | **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/pull/242)** | Multithreaded text-to-speech handling 🗣️ |
 | **[Discord-VSCode](https://github.com/bituq/discord-vscode/tree/gpt)** | GPT describes your coding activity with Discord RPC 🤖 |
 
-## My skills include
-- Rust
-- TypeScript
-- Vue 3
-- Nuxt 3
-- HLSL
-
-I am always seeking to improve my skills and take on new challenges. If you have any questions or opportunities for collaboration, please feel free to contact me.
+## My Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bituq&langs_count=8&layout=compact&theme=transparent)](https://github.com/bituq/github-readme-stats)
