@@ -23,3 +23,5 @@ I am always seeking to improve my skills and take on new challenges. If you have
 
 ## My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bituq&langs_count=8&layout=compact&theme=transparent)](https://github.com/bituq/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=bituq&style=for-the-badge)
