@@ -1,4 +1,5 @@
 # Welcome to my Github page!
+![](https://img.shields.io/badge/Zeal%237456-7289da?logo=discord&logoColor=7289da&labelColor=white)
 
 I'm Dylan, a Computer Science student at the University of Applied Sciences in the Netherlands. I am the creator of Roshade - a popular Reshade package for the game engine Roblox, which has amassed over 10 million downloads.
 
