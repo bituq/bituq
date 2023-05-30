@@ -5,7 +5,7 @@ I'm Dylan, a Computer Science student at the University of Applied Sciences in t
 I am always seeking to improve my skills and take on new challenges. If you have any questions or opportunities for collaboration, please feel free to contact me.
 
 ## My Projects
-| Project | Short Description | Metrics |
+| Project | Description | Metrics |
 | --- | --- | --- |
 | **[Roshade](https://github.com/bituq/Roshade)** | Shaders for Roblox 🎨 | ![GitHub all releases](https://img.shields.io/github/downloads/bituq/Roshade/total?style=for-the-badge) |
 | **[lut-rs](https://github.com/bituq/lut-rs)** | Apply LUTs to images in batch with ease, written in Rust! 🎨 | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bituq/lut-rs?style=for-the-badge) |
