@@ -12,7 +12,7 @@ I am always seeking to improve my skills and take on new challenges. If you have
 | **[lut-rs](https://github.com/bituq/lut-rs)** | Apply LUTs to images in batch with ease, written in Rust! 🎨 | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bituq/lut-rs?style=for-the-badge) |
 | **[Vite-Plugin-Squoosh](https://github.com/bituq/vite-plugin-squoosh)** | Image compression plugin for Vite 📸 | ![npm](https://img.shields.io/npm/dm/vite-plugin-squoosh?style=for-the-badge) |
 | **[Adaptive Rim Light Shader](https://github.com/bituq/ZealShaders)** | Shader for Reshade, written in Reshade FX 💡 | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/ZealShaders?style=for-the-badge) |
-| **[RoKlein](https://github.com/bituq/RoKlein)** | Declarative, lightweight, asynchronous UI Library that [Roact](https://roblox.github.io/roact/) users hate 😅 | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/RoKlein?style=for-the-badge) |
+| **[RoKlein](https://github.com/bituq/RoKlein)** | Declarative, lightweight, asynchronous UI Library that [Roact](https://roblox.github.io/roact/) users hate | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/RoKlein?style=for-the-badge) |
 | **[Rblx-App-Patcher](https://github.com/bituq/roblox-app-patcher)** | Attempt at disabling the Roblox desktop app 🔧 | ![GitHub all releases](https://img.shields.io/github/downloads/bituq/roblox-app-patcher/total?style=for-the-badge) |
 | **[Shade The Sims](https://github.com/shade-the-sims/setup)** | A custom ReShade installer for the Sims 4 🎨 | ![GitHub all releases](https://img.shields.io/github/downloads/shade-the-sims/setup/total?style=for-the-badge) |
 
