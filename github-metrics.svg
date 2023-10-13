@@ -222,7 +222,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="118.83333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -247,9 +247,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 813k out of 121m users</span>
+                                    <span class="gh">ranked 781k out of 121m users</span>
                                 </div>
-                                <div class="text">Published 43 public repositories</div>
+                                <div class="text">Published 44 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -370,7 +370,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 623k out of 45m repositories</span>
+                                    <span class="gh">ranked 623k out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 18 times</div>
                             </div>
@@ -523,7 +523,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 648k out of 45m repositories</span>
+                                    <span class="gh">ranked 648k out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
