@@ -9,6 +9,7 @@ I am always seeking to improve my skills and take on new challenges. If you have
 | Project | Description | Metrics |
 | --- | --- | --- |
 | **[Roshade](https://github.com/bituq/Roshade)** | Shaders for Roblox 🎨 | ![GitHub all releases](https://img.shields.io/github/downloads/bituq/Roshade/total?style=for-the-badge) |
+| **[ReShade for FiveM](https://github.com/bituq/FiveM-ReShade)** | Install ReShade to FiveM! 🎨 | ![GitHub all releases](https://img.shields.io/github/downloads/bituq/FiveM-ReShade/total?style=for-the-badge) |
 | **[lut-rs](https://github.com/bituq/lut-rs)** | Apply LUTs to images in batch with ease, written in Rust! 🎨 | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bituq/lut-rs?style=for-the-badge) |
 | **[Vite-Plugin-Squoosh](https://github.com/bituq/vite-plugin-squoosh)** | Image compression plugin for Vite 📸 | ![npm](https://img.shields.io/npm/dm/vite-plugin-squoosh?style=for-the-badge) |
 | **[Adaptive Rim Light Shader](https://github.com/bituq/ZealShaders)** | Shader for Reshade, written in Reshade FX 💡 | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/ZealShaders?style=for-the-badge) |
