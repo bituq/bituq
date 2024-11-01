@@ -16,6 +16,7 @@ I am always seeking to improve my skills and take on new challenges. If you have
 | **[RoKlein](https://github.com/bituq/RoKlein)** | Declarative, lightweight, asynchronous UI Library that [Roact](https://roblox.github.io/roact/) users hate | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/RoKlein?style=for-the-badge) |
 | **[Rblx-App-Patcher](https://github.com/bituq/roblox-app-patcher)** | Attempt at disabling the Roblox desktop app 🔧 | ![GitHub all releases](https://img.shields.io/github/downloads/bituq/roblox-app-patcher/total?style=for-the-badge) |
 | **[Shade The Sims](https://github.com/shade-the-sims/setup)** | A custom ReShade installer for the Sims 4 🎨 | ![GitHub all releases](https://img.shields.io/github/downloads/shade-the-sims/setup/total?style=for-the-badge) |
+| **[RProxy](https://github.com/bituq/rproxy)** | A Bun proxy made for heroku | ![GitHub top language](https://img.shields.io/github/languages/top/bituq/rproxy?style=for-the-badge) |
 
 ## My Contributions
 | Project | Description |
