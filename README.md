@@ -24,7 +24,4 @@ I am always seeking to improve my skills and take on new challenges. If you have
 | **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/pull/242)** | Multithreaded text-to-speech handling 🗣️ |
 | **[Discord-VSCode](https://github.com/bituq/discord-vscode/tree/gpt)** | GPT describes your coding activity with Discord RPC 🤖 |
 
-## My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bituq&langs_count=8&layout=compact&theme=transparent)](https://github.com/bituq/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=bituq&style=for-the-badge)
